@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# folders
+datasets/
+models/
+saved_models/
+results/
+
 # C extensions
 *.so
 
