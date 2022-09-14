@@ -21,7 +21,8 @@ source init_env.sh
 
 4. Run 
 
-References:
-[1] DMKT code: https://github.com/persai-lab/EDM2021-DMKT
-[2] DMKT paper: Wang, Chunpai, Siqian Zhao, and Shaghayegh Sahebi. "Learning from Non-Assessed Resources: Deep Multi-Type Knowledge Tracing." International Educational Data Mining Society (2021).
-[3] DKVMN paper: Zhang, Jiani, et al. "Dynamic key-value memory networks for knowledge tracing." Proceedings of the 26th international conference on World Wide Web. 2017.
+**References:**
+
+- [1] DMKT code: https://github.com/persai-lab/EDM2021-DMKT
+- [2] DMKT paper: Wang, Chunpai, Siqian Zhao, and Shaghayegh Sahebi. "Learning from Non-Assessed Resources: Deep Multi-Type Knowledge Tracing." International Educational Data Mining Society (2021).
+- [3] DKVMN paper: Zhang, Jiani, et al. "Dynamic key-value memory networks for knowledge tracing." Proceedings of the 26th international conference on World Wide Web. 2017.
